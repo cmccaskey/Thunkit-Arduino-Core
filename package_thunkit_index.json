@@ -1,0 +1,31 @@
+{
+  "packages": [
+    {
+      "name": "Thunkit Electronics",
+      "maintainer": "Thunkit Electronics",
+      "websiteURL": "https://thunkitelectronics.com",
+      "email": "cameron@thunkitelectronics.com",
+      "help": {
+        "online": "https://thunkitelectronics.com"
+      },
+      "platforms": [
+        {
+          "name": "Thunkit Electronics AVR Boards",
+          "architecture": "AVR",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/cmccaskey/Thunkit-Arduino-Core/ThunkitElectronicsBoards.1.0.0.tar.gz",
+          "archiveFileName": "ThunkitElectronicsBoards.1.0.0.tar.gz",
+          "checksum": "SHA-256:996510336f9eae30d9ecc53b95b964367767ac31ab8853b01a77002361b77c09",
+          "size": "73595443",
+          "help": {
+            "online": "https://thunkitelectronics.com"
+          },
+          "boards": [
+            { "name": "Thunkit Electronics KitDuino THT" },
+            { "name": "Thunkit Electronics KitDuino Proto" },
+          ],
+          "toolsDependencies": []
+        }
+    ]
+  }
