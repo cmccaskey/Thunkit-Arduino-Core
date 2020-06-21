@@ -12,10 +12,10 @@
 			"architecture": "avr",
 			"version": "1.0.0",
 			"category": "Contributed",
-			"url": "https://raw.githubusercontent.com/cmccaskey/Thunkit-Arduino-Core/master/ThunkitElectronicsBoards-1.0.0.zip",
-			"archiveFileName": "ThunkitElectronicsBoards-1.0.0.zip",
-			"checksum": "SHA-256:ee05593ae184f159a475ffb8edeb7372abbedbbf12860619f7bae3366e68ff1c",
-			"size": "92128",
+			"url": "http://downloads.arduino.cc/cores/avr-1.6.6.tar.bz2",
+			"archiveFileName": "avr-1.6.6.tar.bz2",
+			"checksum": "SHA-256:08ad5db4978ebea22344edc5d77dce0923d8a644da7a14dc8072e883c76058d8",
+			"size": "4876916",
 			"help": {
 				"online": "https://thunkitelectronics.com"
 			},
