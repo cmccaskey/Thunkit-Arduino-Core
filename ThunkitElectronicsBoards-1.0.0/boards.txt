@@ -27,7 +27,7 @@ KitDuinoTHT.bootloader.lock_bits=0x0F
 KitDuinoTHT.bootloader.file=optiboot/optiboot_atmega328.hex
 
 KitDuinoTHT.build.mcu=atmega328p
-KitDuinoTHT.build.board=Kitduino THT
+KitDuinoTHT.build.board=AVR_KITDUINOTHT
 KitDuinoTHT.build.core=arduino:arduino
 KitDuinoTHT.build.variant=arduino:standard
 
