@@ -17,8 +17,8 @@
 			},
 			"url": "https://raw.githubusercontent.com/cmccaskey/Thunkit-Arduino-Core/master/ThunkitElectronicsBoards-1.0.0.zip",
 			"archiveFileName": "ThunkitElectronicsBoards-1.0.0.zip",
-			"checksum": "SHA-256:5b35af5ead5c7af6d1ad20ce5b8cc408fc304811c714d1e8d52f88665a55936e",
-			"size": "91613",
+			"checksum": "SHA-256:5d019ac2cedb42bc37cedeac067bc1c286ef3fb9a5c1dea4ec16f111d52e4031",
+			"size": "91619",
 			"boards": [{
 					"name": "Thunkit Electronics KitDuino THT"
 				},

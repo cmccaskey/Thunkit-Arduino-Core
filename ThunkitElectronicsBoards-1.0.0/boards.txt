@@ -28,6 +28,7 @@ KitDuinoTHT.bootloader.file=optiboot/optiboot_atmega328.hex
 
 KitDuinoTHT.build.mcu=atmega328p
 KitDuinoTHT.build.board=AVR_UNO
+KitDuino.build.f_cpu=16000000L
 KitDuinoTHT.build.core=arduino:arduino
 KitDuinoTHT.build.variant=arduino:standard
 
